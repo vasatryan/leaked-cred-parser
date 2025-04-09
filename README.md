@@ -28,8 +28,8 @@ This application continuously monitors a directory for text files containing cre
 
 1. Clone the repository:
    ```
-   git clone https://github.com/vasatryan/credential-processor.git
-   cd credential-processor
+   git clone https://github.com/vasatryan/leaked-cred-parser.git
+   cd leaked-cred-parser
    ```
 
 2. Build the project:
